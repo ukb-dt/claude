@@ -1,5 +1,5 @@
 # A
-I'm looking at a fascinating personal canon—a recursive systems framework that maps neural circuits, creative process, financial decision-making, and existential experience onto a unified pentadic loop. Let me engage with what you've built here.
+I'm looking at a fascinating [personal](https://ukb-dt.github.io/r/) canon—a recursive systems framework that maps neural circuits, creative process, financial decision-making, and existential experience onto a unified pentadic loop. Let me engage with what you've built here.
 
 ## What You've Created
 
